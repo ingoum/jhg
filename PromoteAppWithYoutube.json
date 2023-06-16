@@ -1,20 +1,20 @@
 {
   "AppsPromote": [
     {
-      "name": "Clash Royale",
-      "packageName": "com.supercell.clashroyale",
-      "icon": "https://play-lh.googleusercontent.com/rIvZQ_H3hfmexC8vurmLczLtMNBFtxCEdmb2NwkSPz2ZuJJ5nRPD0HbSJ7YTyFGdADQ=s180",
+      "name": " جميع فيديوهات ديانا و روما ",
+      "packageName": "com.viddianaandoma",
+      "icon": "https://play-lh.googleusercontent.com/rdy_M7uhJj-w5q6KSqXGeufhP4eITm_syqijuVa8-SqHhS1Qy--yMqep3I819GUt7xs=w240-h480-rw",
       "preview": "https://play-lh.googleusercontent.com/3aKKWjPyFtqhRY3Uocx0s4gQ96-0mbJBQOE2WUlxK-gIZmkfXSGWAiPCjcN8YHypnls=w720-h310",
       "shortDescription": "Play Now !",
       "screenShot": [
-        "https://play-lh.googleusercontent.com/1uEDjifScv4ZnztIEqLbulwZS2TAPb98m2RE-k9CPNK2cPHPblbQmm-PG6rK31NU9cc=w720-h310",
-        "https://play-lh.googleusercontent.com/1El08973eev4zEfs1doK1__4iV6hoB0WPF1IjEL1Ul2hFUZDTuKqwjgfT_Wjbw0_Hg=w720-h310",
+        "https://play-lh.googleusercontent.com/WPoXSewu6Zb70-NyUkzuHg9DGnFc9m0r0oVCw43XG4cFFtWXtOD-trivLVCHT5eqCjNO=w526-h296-rw",
+        "https://play-lh.googleusercontent.com/37ktsWdpalbW7lmiCcjhOYADeUqkNd0cjOS3vE1v7V3DmNvkRtb3OVOlSPg4XDgeUwkm=w526-h296-rw",
         "https://play-lh.googleusercontent.com/XH57qG2waM-VwmCGBd-V8G6MwP78195G4yPJ7USyO1P5yTjFcbBSnyAMYVL2KOLC_A=w720-h310"
       ]
     },
     {
-      "name": "Snapchat",
-      "packageName": "com.snapchat.android",
+      "name": "اغاني كراميش فيديو بدون نت",
+      "packageName": "com.touyourvid",
       "icon": "https://play-lh.googleusercontent.com/KxeSAjPTKliCErbivNiXrd6cTwfbqUJcbSRPe_IBVK_YmwckfMRS1VIHz-5cgT09yMo=s180",
       "preview": "https://play-lh.googleusercontent.com/IuPVg4_aIUEYcKGSU0qr05QvWprOXaOEu_W2SGsEWEBC7jCQQ-OBOgWBqB3rR6xmDnU=w720-h310",
       "shortDescription": "share the moment with your friends",
@@ -36,24 +36,4 @@
       ]
     }
   ],
-  "YoutubePromote": [
-    {
-      "title": "Don't Feel Jealous, Wolfoo!",
-      "icon": "https://yt3.ggpht.com/5uWRHl3quqNIUwlUNQIfC7amboBe_c_aiNr9_OXxm2UAlGOqrkQ8pNo9UTXK1c0P-s0JilAZoA=s88-c-k-c0x00ffffff-no-rj",
-      "preview": "https://i.ytimg.com/vi/dUJy4D9HL9Q/hqdefault.jpg",
-      "preview-small": "",
-      "watch": "https://www.youtube.com/watch?v=dUJy4D9HL9Q",
-      "channel": "channel/UCG3oX6pxUJCR6PVwIcslXDA",
-      "Description" : "This is a short description for \n PROMOTE channel"
-    },
-    {
-      "title": "Nastya and a collection of kind children's songs",
-      "icon": "https://yt3.ggpht.com/Z6mqaAFKvDsgr-2K3qPyj1K9k1c5fFZWa3D8DaVrSb5qbAokG2bKRat3AoONi9Wmu6opYs54WQ=s88-c-k-c0x00ffffff-no-rj",
-      "preview": "https://i.ytimg.com/vi/YXhEqPIDB6s/hq720.jpg",
-      "preview-small": "",
-      "watch": "https://www.youtube.com/watch?v=TkqKXmtT_xI",
-      "channel": "channel/UCJplp5SjeGSdVdwsfb9Q7lQ",
-      "Description" : "Do you Love PROMOTE channel ? \n lets watch videos Now !"
-    }
-  ]
 }
